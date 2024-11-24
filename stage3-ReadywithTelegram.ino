@@ -3,12 +3,12 @@
 #include <LiquidCrystal_PCF8574.h>
 
 // Replace with your network credentials
-const char* ssid = "JDP 2G";
-const char* password = "jd8655461969";
+const char* ssid = "";
+const char* password = "";
 
 // Telegram API Token and Chat ID
-const String BOT_TOKEN = "7201696687:AAGq5IyD_9y7ncThQ2B29-HwjS0G3-SafPU";
-const String CHAT_ID = "1013448757";
+const String BOT_TOKEN = "";
+const String CHAT_ID = "";
 
 // Button and debounce settings
 const int buttonPin = 15;  
